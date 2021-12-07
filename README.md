@@ -1,6 +1,6 @@
 # Work Day Life Changer 
 
-## Week 5 Challenge: Univeristy of Oregon Bootcamp
+## Week 5 Challenge: University of Oregon Bootcamp
 
 ## User Story
 AS AN employee with a busy schedule:
@@ -22,5 +22,5 @@ GIVEN I am using a daily planner to create a schedule
 * WHEN I refresh the page
 * THEN the saved events persist
 
-## Created by;
+## Created by:
 [Miranda T](https://github.com/MirandaT77) 
