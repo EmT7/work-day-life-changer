@@ -1,4 +1,4 @@
-# Work Day Life Changer 
+# Work Day Scheduler ![GitHub license](https://img.shields.io/npm/l/express?style=for-the-badge)
 
 ## Week 5 Challenge: University of Oregon Bootcamp
 
@@ -22,5 +22,18 @@ GIVEN I am using a daily planner to create a schedule
 * WHEN I refresh the page
 * THEN the saved events persist
 
+## Technologies Used:
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Google API
+* Boostrap
+
+## [Deployed Application:](https://mirandat77.github.io/work-day-life-changer/) Go check it out!
+<iframe src="https://drive.google.com/file/d/1s5FQgNyzpFkqIkmDsNpuZhRpDs2pUE1k/preview" width="640" height="480"></iframe>
+
+
+
 ## Created by:
-[Miranda T](https://github.com/MirandaT77) 
+- [Miranda Thompson](https://github.com/MirandaT77) [Email me](mailto:ranileah7@gmail.com)
