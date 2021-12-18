@@ -33,10 +33,11 @@ GIVEN I am using a daily planner to create a schedule
 ## [Deployed Application:](https://mirandat77.github.io/work-day-life-changer/) Go check it out!
 
 ## Demonstration
-<iframe src="https://drive.google.com/file/d/1s5FQgNyzpFkqIkmDsNpuZhRpDs2pUE1k/preview" width="640" height="480"></iframe>
+[Video](<iframe src="https://drive.google.com/file/d/1s5FQgNyzpFkqIkmDsNpuZhRpDs2pUE1k/preview" width="640" height="480"></iframe>)
 
 ![demo](https://user-images.githubusercontent.com/88161424/146654595-414d267d-25fc-4555-87cc-0224fb368b1d.jpg)
 
 
 ## Created by:
-- [Miranda Thompson](https://github.com/MirandaT77) [Email me](mailto:ranileah7@gmail.com)
+- [Miranda Thompson](https://github.com/MirandaT77) 
+- [Email me](mailto:ranileah7@gmail.com)
