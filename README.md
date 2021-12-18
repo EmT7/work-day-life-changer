@@ -40,4 +40,5 @@ GIVEN I am using a daily planner to create a schedule
 
 ## Created by:
 - [Miranda Thompson](https://github.com/MirandaT77) 
-- [Email me](mailto:ranileah7@gmail.com)
+### Contact
+[Email me](mailto:ranileah7@gmail.com)
