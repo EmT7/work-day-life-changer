@@ -30,7 +30,7 @@ GIVEN I am using a daily planner to create a schedule
 * Google API
 * Boostrap
 
-## [Deployed Application:](https://mirandat77.github.io/work-day-life-changer/) Go check it out!
+## [Deployed Application. Go check it out!](https://mirandat77.github.io/work-day-life-changer/) 
 
 ## Demonstration
 [Video](https://drive.google.com/file/d/1s5FQgNyzpFkqIkmDsNpuZhRpDs2pUE1k/preview)
@@ -39,6 +39,6 @@ GIVEN I am using a daily planner to create a schedule
 
 
 ## Created by:
-- [Miranda Thompson](https://github.com/MirandaT77) 
+[Miranda Thompson](https://github.com/MirandaT77) 
 ### Contact
 [Email me](mailto:ranileah7@gmail.com)
